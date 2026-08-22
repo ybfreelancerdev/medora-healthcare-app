@@ -54,3 +54,26 @@ git clone https://github.com/your-username/medora-healthcare-app.git
 cd medora-healthcare-app
 npm install
 npx react-native run-android
+```
+
+---
+
+## Screenshots
+
+## Patient Home
+![Patient_Home](images/Patient Home.png)
+
+## Doctor Home
+![Doctor_Home](images/Doctor Home.png)
+
+## Chat & Prescription
+![Chat_Prescription](images/Chat & Prescription.png)
+
+## Appointment Booking
+![Appointment_Booking](images/Appointment Booking.png)
+
+## Payment
+![Payment](images/Payment.png)
+
+## Prescription Builder
+![Prescription_Builder](images/Prescription Builder.png)
