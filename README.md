@@ -73,7 +73,7 @@ npx react-native run-android
 ![Appointment_Booking](docs/screenshots/appointment-booking.png)
 
 ## Payment
-![Payment](images/docs/screenshots/payment.png)
+![Payment](docs/screenshots/payment.png)
 
 ## Prescription Builder
 ![Prescription_Builder](docs/screenshots/prescription-builder.png)
