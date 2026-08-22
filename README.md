@@ -49,7 +49,7 @@ Medora is a modern healthcare platform that connects patients and doctors for se
 
 ## 🚀 Getting Started
 
-```bash
+bash
 git clone https://github.com/your-username/medora-healthcare-app.git
 cd medora-healthcare-app
 npm install
