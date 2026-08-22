@@ -54,7 +54,3 @@ git clone https://github.com/your-username/medora-healthcare-app.git
 cd medora-healthcare-app
 npm install
 npx react-native run-android
-
----
-
-## Screenshots
