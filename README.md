@@ -23,6 +23,48 @@ Medora is a modern healthcare platform that connects patients and doctors for se
 
 ---
 
+## High-Level System Architecture
+
+                         ┌──────────────────────────┐
+                         │      MEDORA MOBILE APP   │
+                         │      React Native        │
+                         └────────────┬─────────────┘
+                                      │
+                    ┌─────────────────┴─────────────────┐
+                    │                                   │
+             ┌──────▼──────┐                     ┌──────▼──────┐
+             │   PATIENT   │                     │   DOCTOR    │
+             │     APP     │                     │     APP     │
+             └──────┬──────┘                     └──────┬──────┘
+                    │                                   │
+                    └─────────────────┬─────────────────┘
+                                      │
+                              ┌───────▼────────┐
+                              │    SERVICES    │
+                              │                │
+                              │ Authentication │
+                              │ Appointments   │
+                              │ Payments       │
+                              │ Prescriptions  │
+                              │ Notifications  │
+                              │ File Uploads   │
+                              └───────┬────────┘
+                                      │
+                 ┌────────────────────┼────────────────────┐
+                 │                    │                    │
+          ┌──────▼──────┐      ┌──────▼──────┐      ┌──────▼──────┐
+          │   Firebase  │      │  Firestore  │      │   Storage   │
+          │    Auth     │      │  Database   │      │   Files     │
+          └─────────────┘      └─────────────┘      └─────────────┘
+                                      │
+                               ┌──────▼──────┐
+                               │     FCM     │
+                               │ Push        │
+                               │ Notifications│
+                               └─────────────┘
+
+---
+
 ## 📱 Screens Included
 
 - Login / Signup
