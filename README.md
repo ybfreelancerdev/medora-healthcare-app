@@ -61,19 +61,19 @@ npx react-native run-android
 ## Screenshots
 
 ## Patient Home
-![Patient_Home](images/Patient Home.png)
+![Patient_Home](docs/screenshots/patient-home.png)
 
 ## Doctor Home
-![Doctor_Home](images/Doctor Home.png)
+![Doctor_Home](docs/screenshots/doctor-home.png)
 
 ## Chat & Prescription
-![Chat_Prescription](images/Chat & Prescription.png)
+![Chat_Prescription](docs/screenshots/chat-and-prescription.png)
 
 ## Appointment Booking
-![Appointment_Booking](images/Appointment Booking.png)
+![Appointment_Booking](docs/screenshots/appointment-booking.png)
 
 ## Payment
-![Payment](images/Payment.png)
+![Payment](images/docs/screenshots/payment.png)
 
 ## Prescription Builder
-![Prescription_Builder](images/Prescription Builder.png)
+![Prescription_Builder](docs/screenshots/prescription-builder.png)
