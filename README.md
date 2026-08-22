@@ -60,5 +60,20 @@ npx react-native run-android
 
 ## Screenshots
 
-### Admin Dashboard
-![splash_screen](images/splash_screen.png)
+## Patient Home
+![Patient_Home](images/Patient Home.png)
+
+## Doctor Home
+![Doctor_Home](images/Doctor Home.png)
+
+## Chat & Prescription
+![Chat_Prescription](images/Chat & Prescription.png)
+
+## Appointment Booking
+![Appointment_Booking](images/Appointment Booking.png)
+
+## Payment
+![Payment](images/Payment.png)
+
+## Prescription Builder
+![Prescription_Builder](images/Prescription Builder.png)
